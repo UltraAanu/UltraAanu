@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UltraAanu
-- 👀 I’m interested in Data science, Machine Learnign and AI 
+- 👀 I’m interested in Data science, Machine Learning and AI 
 - 🌱 I’m currently learning Python for data science 
 - 💞️ I’m looking to collaborate on projects that can be used to create physical products implemented in day-to-day life
 - 📫 How to reach me ...
